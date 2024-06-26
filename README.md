@@ -4,8 +4,8 @@ A micro buy bot for pumping your pump.fun tokens. Using this bot your tokens wil
 This bot automatically buys and sells on Pump.fun and Raydium.
 
 Ideal for showcasing on the Pump.fun main page.
-# Demo
-[![Demo](https://img.youtube.com/vi/9BUO5agV5ZM/0.jpg)](https://www.youtube.com/watch?v=9BUO5agV5ZM)
+# Tutorial 
+[![Demo](https://img.youtube.com/vi/X5rz-T2F4qw/0.jpg)](https://www.youtube.com/watch?v=X5rz-T2F4qw)
 
 # Download the bot
 If you have git installed on your computer you can fetch the content of this repository with the command
