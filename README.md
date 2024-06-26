@@ -70,8 +70,12 @@ const TOKEN_ADDR = ""; //
 ```
 # Run the Bump Bot
 
-To run the bump bot, in cmd.exe or terminal, execute the following command:
+To run the bump bot, in cmd.exe or terminal, execute the following commands:
 
+```
+cd /path/to/the/folder
+```
+And
 ```
 node index.js
 ```
