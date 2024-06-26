@@ -54,7 +54,7 @@ It should install all the dependencies in a new folder named "node_modules".
 
 # Setting up the bot
 
-You have three things to setup within the index.js file:
+You have three things to setup within the config.js file:
 1. RPC endpoint to connect to the Solana blockchain (Quicknode or Helius provide good free RPC endpoints, however a paid Helius RPC is better and will be more reliable).
 
 2. Private key of the wallet that will execute buy and sell operations.
